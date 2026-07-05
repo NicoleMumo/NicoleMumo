@@ -37,18 +37,15 @@ I enjoy solving real-world problems through intuitive user experiences, scalable
 ---
 ## 💻 Languages
 
-## 💻 Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin" height="45"/>
-  <img src="https://skillicons.dev/icons?i=python" height="45"/>
-  <img src="https://skillicons.dev/icons?i=js" height="45"/>
-  <img src="https://skillicons.dev/icons?i=php" height="45"/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="45"/>
-  <img src="https://skillicons.dev/icons?i=cs" height="45"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
 ## 🚀 Frameworks & Libraries
 
 <p align="left">
