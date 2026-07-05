@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=220&section=header&text=Nicole%20Mumo&fontSize=45&fontColor=c5488c&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Full-Stack%20Developer%20|%20Android%20Developer%20|%20ML%20Enthusiast&descAlignY=60&descColor=67e8f9"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffe4ec,50:ffb6c1,100:ffffff&height=220&section=header&text=Nicole%20Mumo&fontSize=45&fontColor=e75480&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Full-Stack%20Developer%20|%20Android%20Developer%20|%20Machine%20Learning%20Enthusiast&descAlignY=60&descColor=d63384" alt="Nicole Mumo Banner"/>
 </p>
 
 <p align="center">
