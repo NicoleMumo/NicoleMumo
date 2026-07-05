@@ -1,5 +1,22 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=220&section=header&text=Nicole%20Mumo&fontSize=45&fontColor=67e8f9&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Full-Stack%20Developer%20|%20Android%20Developer%20|%20ML%20Enthusiast&descAlignY=60&descColor=67e8f9"/> 
+  <img src="https://capsule-render.vercel.app/api?
+    type=waving
+    &color=0:0B1026,35:312E81,70:6D28D9,100:2563EB
+    &height=220
+    &section=header
+    &text=Nicole%20Mumo
+    &fontSize=45
+    &fontColor=F8FAFC
+    &fontAlignY=38
+    &animation=fadeIn
+    &desc=Computer%20Science%20Student%20|%20Full-Stack%20Developer%20|%20Android%20Developer%20|%20ML%20Enthusiast
+    &descSize=18
+    &descAlign=50
+    &descAlignY=60
+    &descColor=C4B5FD
+    &stroke=38BDF8
+    &strokeWidth=1"/>
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=67E8F9&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Android+Developer;Full-Stack+Developer;Machine+Learning+Enthusiast;IoT+Developer;Always+Learning+New+Technologies"/>
