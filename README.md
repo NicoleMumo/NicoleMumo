@@ -128,7 +128,7 @@ I enjoy solving real-world problems through intuitive user experiences, scalable
 
 ### 🌾 [Agriculture IoT Project](https://github.com/NicoleMumo/AGRICULTURE-IOT-PROJECT)
 
-Low-cost IoT irrigation advisory system for smallholder farmers that monitors soil moisture, temperature, and humidity, providing crop-specific watering recommendations through a web dashboard.
+IoT smart farming system using ESP32, MQTT, and HiveMQ to monitor field conditions and provide real-time irrigation recommendations through a web dashboard.
 
 **Tech:** ESP32 • MQTT • HiveMQ • PHP • MySQL
 
@@ -176,11 +176,7 @@ Property management platform with MPesa STK Push integration.
 
 ---
 
-### 📡 IoT Smart Monitoring System
 
-IoT system using ESP32 sensors communicating through MQTT and HiveMQ Broker.
-
-**Tech:** ESP32 • MQTT • HiveMQ
 
 ---
 
