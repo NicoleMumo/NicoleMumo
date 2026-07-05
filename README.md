@@ -33,94 +33,42 @@ I enjoy solving real-world problems through intuitive user experiences, scalable
 
 # 💻 Tech Stack
 
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=kotlin" height="40"/> Kotlin
-
-<img src="https://skillicons.dev/icons?i=python" height="40"/> Python
-
-<img src="https://skillicons.dev/icons?i=js" height="40"/> JavaScript
-
-<img src="https://skillicons.dev/icons?i=php" height="40"/> PHP
-
-<img src="https://skillicons.dev/icons?i=cpp" height="40"/> C++
-
-<img src="https://skillicons.dev/icons?i=cs" height="40"/> C#
-
-<img src="https://skillicons.dev/icons?i=mysql" height="40"/> SQL
-
-</p>
 
 ---
+## 💻 Languages
 
-## Frameworks & Libraries
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react" height="40"/> React
-
-<img src="https://skillicons.dev/icons?i=nextjs" height="40"/> Next.js
-
-<img src="https://skillicons.dev/icons?i=nodejs" height="40"/> Node.js
-
-<img src="https://skillicons.dev/icons?i=firebase" height="40"/> Firebase
-
-<img src="https://skillicons.dev/icons?i=tensorflow" height="40"/> TensorFlow
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge"/>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,python,javascript,php,cpp,cs,mysql" />
 </p>
 
----
+## 🚀 Frameworks & Libraries
 
-## Cloud • DevOps • Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git" height="40"/> Git
-
-<img src="https://skillicons.dev/icons?i=github" height="40"/> GitHub
-
-<img src="https://skillicons.dev/icons?i=vscode" height="40"/> VS Code
-
-<img src="https://skillicons.dev/icons?i=figma" height="40"/> Figma
-
-<img src="https://skillicons.dev/icons?i=unity" height="40"/> Unity
-
-<img src="https://skillicons.dev/icons?i=aws" height="40"/> AWS
-
-<img src="https://skillicons.dev/icons?i=docker" height="40"/> Docker
-
-<img src="https://skillicons.dev/icons?i=nginx" height="40"/> Nginx
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,firebase,tensorflow" />
 </p>
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge"/>
+</p>
+
+## ☁️ Cloud • DevOps • Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,unity,aws,docker,nginx" />
+</p>
 
 ## 📡 IoT
 
-<p>
-
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt"/>
-
-<img src="https://img.shields.io/badge/HiveMQ-FFC000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino"/>
-
+<p align="left">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt"/>
+  <img src="https://img.shields.io/badge/HiveMQ-FFC000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino"/>
 </p>
-
 ---
 
 
@@ -208,13 +156,7 @@ Property management platform with MPesa STK Push integration.
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NicoleMumo&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
 
 ---
 
