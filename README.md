@@ -37,8 +37,16 @@ I enjoy solving real-world problems through intuitive user experiences, scalable
 ---
 ## 💻 Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,python,javascript,php,cpp,cs,mysql" />
+## 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=js" height="45"/>
+  <img src="https://skillicons.dev/icons?i=php" height="45"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="45"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
 </p>
 
 ## 🚀 Frameworks & Libraries
