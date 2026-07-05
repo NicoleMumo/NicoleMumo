@@ -132,14 +132,16 @@ Android marketplace connecting farmers directly to consumers.
 
 ---
 
-### 🛒 Farm Direct Web Platform
+###https://github.com/NicoleMumo/FARM-DIRECT-MOBILE-APP
+🛒 Farm Direct Web Platform
 Full-stack e-commerce platform supporting online payments.
 
 **Tech:** React • Node.js • Pesapal
 
 ---
 
-### 🏡 Home Services Platform
+### https://github.com/NicoleMumo/KAZI-ROAD-SERVICE-MARKETPLACE
+🏡 Home Services Platform
 
 Client-service provider marketplace.
 
