@@ -123,39 +123,46 @@ I enjoy solving real-world problems through intuitive user experiences, scalable
 
 ---
 
+
 # ⭐ Featured Projects
 
-### 🌾 Farm Direct Mobile App
+### 🌾 [Agriculture IoT Project](https://github.com/NicoleMumo/AGRICULTURE-IOT-PROJECT)
+
+Low-cost IoT irrigation advisory system for smallholder farmers that monitors soil moisture, temperature, and humidity, providing crop-specific watering recommendations through a web dashboard.
+
+**Tech:** ESP32 • MQTT • HiveMQ • PHP • MySQL
+
+---
+
+### 📱 [Farm Direct Mobile App](https://github.com/NicoleMumo/FARM-DIRECT-MOBILE-APP)
+
 Android marketplace connecting farmers directly to consumers.
 
 **Tech:** Kotlin • Jetpack Compose • Firebase
 
 ---
 
-###https://github.com/NicoleMumo/FARM-DIRECT-MOBILE-APP
-🛒 Farm Direct Web Platform
+### 🛒 [Farm Direct E-Commerce Website](https://github.com/NicoleMumo/FARM-DIRECT-ECOMMERCE-WEBSITE)
+
 Full-stack e-commerce platform supporting online payments.
 
-**Tech:** React • Node.js • Pesapal
+**Tech:** React • Node.js • PHP • MySQL • Pesapal
 
 ---
 
-### https://github.com/NicoleMumo/KAZI-ROAD-SERVICE-MARKETPLACE
-🏡 Home Services Platform
+### 🏡 [Kazi Road Service Marketplace](https://github.com/NicoleMumo/KAZI-ROAD-SERVICE-MARKETPLACE)
 
-Client-service provider marketplace.
+Marketplace connecting customers with local service providers.
 
-**Tech:** Next.js • Node.js
+**Tech:** Next.js • Node.js • MongoDB
 
 ---
 
-### 🏘️ Real Estate Management System
+### 🏘️ [Real Estate Management System](https://github.com/NicoleMumo/Real-Estate-Management-System)
 
 Property management platform with MPesa STK Push integration.
 
-**Tech:** PHP • MySQL
-
----
+**Tech:** PHP • MySQL • MPesa API
 
 ### 🤖 Machine Learning Projects
 
