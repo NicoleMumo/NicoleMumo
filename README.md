@@ -11,7 +11,7 @@
 
 # 👋 Hi, I'm Nicole Mumo
 
-I'm a **Computer Science student at Strathmore University (Class of 2026)** passionate about building impactful software across **Android**, **Web Development**, **Machine Learning**, **Cloud**, and **IoT**.
+I'm a **Computer Science student at Strathmore University (Class of 2027)** passionate about building impactful software across **Android**, **Web Development**, **Machine Learning**, **Cloud**, and **IoT**.
 
 I enjoy solving real-world problems through intuitive user experiences, scalable backend systems, intelligent models, and connected devices.
 
