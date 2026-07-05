@@ -6,9 +6,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=C4B5FD&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Android+Developer;Full-Stack+Developer;Machine+Learning+Enthusiast;IoT+Developer;Always+Learning+New+Technologies"/>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=NicoleMumo&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
 
 ---
 
@@ -199,6 +196,6 @@ Nairobi, Kenya
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:4F46E5,100:7C3AED&height=120&section=footer"/>
 
 </p>
