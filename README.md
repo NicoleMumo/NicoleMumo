@@ -1,269 +1,246 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=200&section=header&text=Nicole%20Mumo&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Full%20Stack%20Developer%20|%20Android%20Developer%20|%20ML%20Enthusiast&descAlignY=60&descColor=67e8f9" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=220&section=header&text=Nicole%20Mumo&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Full-Stack%20Developer%20|%20Android%20Developer%20|%20ML%20Enthusiast&descAlignY=60&descColor=67e8f9"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Nicole Mumo</h1>
-
-<h3 align="center">
-Computer Science Student • Software Developer • Android Developer • Machine Learning Enthusiast
-</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=67E8F9&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Android+Developer;Full-Stack+Developer;Machine+Learning+Enthusiast;IoT+Developer;Always+Learning+New+Technologies"/>
+</p>
 
 <p align="center">
-I'm passionate about building software that solves real-world problems, from mobile apps and full-stack web platforms to cloud deployments, IoT systems, and machine learning solutions.
+<img src="https://komarev.com/ghpvc/?username=NicoleMumo&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👋 Hi, I'm Nicole Mumo
 
-🎓 Bachelor of Science in Computer Science  
-📍 Strathmore University (Graduating 2026)
+I'm a **Computer Science student at Strathmore University (Class of 2026)** passionate about building impactful software across **Android**, **Web Development**, **Machine Learning**, **Cloud**, and **IoT**.
 
-I enjoy designing and developing software across multiple domains:
+I enjoy solving real-world problems through intuitive user experiences, scalable backend systems, intelligent models, and connected devices.
 
-- 📱 Android applications with Kotlin & Jetpack Compose
-- 🌐 Full-stack web development
-- 🤖 Machine Learning with Python
-- ☁️ Cloud computing & DevOps
-- 🌐 IoT systems using MQTT
-- 🎨 UI/UX Design
+---
 
-Currently exploring:
+# 🚀 Current Focus
 
-- Advanced Android Architecture
-- Next.js
-- AWS Cloud Services
-- Docker & CI/CD
-- MQTT & HiveMQ
-- Machine Learning pipelines
+- 🎓 Completing my Bachelor's in Computer Science
+- 📱 Android Development using Kotlin & Jetpack Compose
+- 🤖 Machine Learning with Scikit-learn & Pandas
+- 🌐 Full Stack Web Development
+- ☁️ Cloud Deployment & CI/CD
+- 📡 IoT Systems using ESP32, MQTT & HiveMQ
 
 ---
 
 # 💻 Tech Stack
 
-### Programming Languages
+## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,kotlin,js,php,cpp,cs,mysql" />
-</p>
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=kotlin" height="40"/> Kotlin
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
+<img src="https://skillicons.dev/icons?i=python" height="40"/> Python
 
-### Backend
+<img src="https://skillicons.dev/icons?i=js" height="40"/> JavaScript
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,php,firebase" />
-</p>
+<img src="https://skillicons.dev/icons?i=php" height="40"/> PHP
 
-### Mobile Development
+<img src="https://skillicons.dev/icons?i=cpp" height="40"/> C++
 
-<p>
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
-</p>
+<img src="https://skillicons.dev/icons?i=cs" height="40"/> C#
 
-### Machine Learning & Data
+<img src="https://skillicons.dev/icons?i=mysql" height="40"/> SQL
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-
-- Scikit-Learn
-- Pandas
-- NumPy
-- Matplotlib
-- Data Analysis
-- Classification
-- Regression
-- Generative AI
-
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,linux" />
-</p>
-
-- Render
-- AWS Elastic Beanstalk
-- Nginx
-- Apache
-- CI/CD
-- Reverse Proxy Configuration
-
-### IoT & Embedded Systems
-
-- MQTT
-- HiveMQ
-- ESP32
-- Arduino
-- Sensors & Actuators
-- Embedded Programming
-- Serial Communication
-- IoT Device Communication
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase" />
-</p>
-
-### Design
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma,photoshop" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## Frameworks & Libraries
 
-## 🌾 Farm Direct Mobile App
+<p>
 
-Android marketplace connecting farmers directly with consumers.
+<img src="https://skillicons.dev/icons?i=react" height="40"/> React
 
-**Tech**
+<img src="https://skillicons.dev/icons?i=nextjs" height="40"/> Next.js
 
-- Kotlin
-- Jetpack Compose
-- Firebase
-- MVVM
+<img src="https://skillicons.dev/icons?i=nodejs" height="40"/> Node.js
 
----
+<img src="https://skillicons.dev/icons?i=firebase" height="40"/> Firebase
 
-## 🛒 Farm Direct Web Platform
+<img src="https://skillicons.dev/icons?i=tensorflow" height="40"/> TensorFlow
 
-A full-stack e-commerce platform enabling farmers to sell produce directly to consumers.
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 
-**Features**
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
-- Authentication
-- Shopping Cart
-- Online Payments
-- Admin Dashboard
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
-**Tech**
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
-- React
-- Node.js
-- Pesapal
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## 🏡 Home Services Platform
+## Cloud • DevOps • Tools
 
-Marketplace connecting customers with local service providers.
+<p>
 
-**Tech**
+<img src="https://skillicons.dev/icons?i=git" height="40"/> Git
 
-- Next.js
-- Firebase
-- Figma
+<img src="https://skillicons.dev/icons?i=github" height="40"/> GitHub
 
----
+<img src="https://skillicons.dev/icons?i=vscode" height="40"/> VS Code
 
-## 🏘️ Real Estate Management System
+<img src="https://skillicons.dev/icons?i=figma" height="40"/> Figma
 
-Property management platform supporting online rent payments.
+<img src="https://skillicons.dev/icons?i=unity" height="40"/> Unity
 
-**Features**
+<img src="https://skillicons.dev/icons?i=aws" height="40"/> AWS
 
-- Property Listings
-- Tenant Portal
-- M-Pesa STK Push
+<img src="https://skillicons.dev/icons?i=docker" height="40"/> Docker
 
-**Tech**
+<img src="https://skillicons.dev/icons?i=nginx" height="40"/> Nginx
 
-- PHP
-- MySQL
-- M-Pesa API
+</p>
 
 ---
 
-## 🍳 Recipe Management System
+## 📡 IoT
 
-Role-based recipe management platform.
+<p>
 
-**Tech**
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
 
-- PHP
-- MySQL
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt"/>
 
----
+<img src="https://img.shields.io/badge/HiveMQ-FFC000?style=for-the-badge"/>
 
-## 💻 Operating System Simulator
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino"/>
 
-Visual simulation of operating system concepts.
-
-**Features**
-
-- CPU Scheduling
-- Synchronization
-- Process Management
-
-**Tech**
-
-- Unity
-- C#
+</p>
 
 ---
 
-## 🤖 Machine Learning Projects
+# ⭐ Featured Projects
 
-Projects involving:
+### 🌾 Farm Direct Mobile App
+Android marketplace connecting farmers directly to consumers.
 
-- Classification
-- Regression
+**Tech:** Kotlin • Jetpack Compose • Firebase
+
+---
+
+### 🛒 Farm Direct Web Platform
+Full-stack e-commerce platform supporting online payments.
+
+**Tech:** React • Node.js • Pesapal
+
+---
+
+### 🏡 Home Services Platform
+
+Client-service provider marketplace.
+
+**Tech:** Next.js • Node.js
+
+---
+
+### 🏘️ Real Estate Management System
+
+Property management platform with MPesa STK Push integration.
+
+**Tech:** PHP • MySQL
+
+---
+
+### 🤖 Machine Learning Projects
+
+- Classification Models
+- Regression Models
 - Data Cleaning
-- Feature Engineering
+- Exploratory Data Analysis
 - Model Evaluation
-- Scikit-Learn
-- Pandas
+
+**Tech:** Python • Pandas • Scikit-learn
 
 ---
 
-## 🌐 IoT Projects
+### 📡 IoT Smart Monitoring System
 
-Projects involving:
+IoT system using ESP32 sensors communicating through MQTT and HiveMQ Broker.
 
-- MQTT Messaging
-- HiveMQ Broker
-- ESP32 Communication
-- Sensor Data Collection
-- Real-time Device Monitoring
+**Tech:** ESP32 • MQTT • HiveMQ
 
 ---
 
-# 🌱 Currently Learning
+# 📊 GitHub Statistics
 
-- Advanced Machine Learning
-- Cloud Architecture
-- Docker
-- Kubernetes
-- Next.js
-- AWS
-- CI/CD Pipelines
-- IoT System Design
+<p align="center">
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NicoleMumo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicoleMumo&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=NicoleMumo&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NicoleMumo&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NicoleMumo&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/NicoleMumo/NicoleMumo/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 
 ---
 
 # 📫 Connect With Me
 
-📧 **Email:** nicolemumo3@gmail.com
+📧 **Email**
 
-💻 **GitHub:** https://github.com/NicoleMumo
+nicolemumo3@gmail.com
 
-📍 **Location:** Nairobi, Kenya
+🐙 **GitHub**
+
+https://github.com/NicoleMumo
+
+📍 **Location**
+
+Nairobi, Kenya
 
 ---
 
 <p align="center">
-<i>"Great software is built by continuously learning, experimenting, and solving meaningful problems."</i>
-</p>
 
-<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=120&section=footer"/>
+
 </p>
