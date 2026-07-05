@@ -1,21 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?
-    type=waving
-    &color=0:0B1026,35:312E81,70:6D28D9,100:2563EB
-    &height=220
-    &section=header
-    &text=Nicole%20Mumo
-    &fontSize=45
-    &fontColor=F8FAFC
-    &fontAlignY=38
-    &animation=fadeIn
-    &desc=Computer%20Science%20Student%20|%20Full-Stack%20Developer%20|%20Android%20Developer%20|%20ML%20Enthusiast
-    &descSize=18
-    &descAlign=50
-    &descAlignY=60
-    &descColor=C4B5FD
-    &stroke=38BDF8
-    &strokeWidth=1"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:4F46E5,100:7C3AED&height=220&section=header&text=Nicole%20Mumo&fontSize=45&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Full-Stack%20Developer%20|%20Android%20Developer%20|%20ML%20Enthusiast&descAlignY=60&descColor=C4B5FD"/>
 </p>
 
 <p align="center">
