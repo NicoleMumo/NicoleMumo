@@ -108,22 +108,9 @@ Full-stack e-commerce platform supporting online payments.
 
 ### 🎬 [Mini Cinema](https://github.com/IS-PROJECT-2026/mini-cinema-169979)
 
-Real-time watch-party web application that allows users to create or join rooms, watch YouTube videos together with synchronized playback, and communicate through real-time chat and emoji reactions.
+Real-time watch-party web application for synchronized YouTube viewing and communication.
 
-**My Contribution:** Sole contributor and developer of the repository.
-
-**Key Features:**
-
-* 🎥 Create and join private watch rooms
-* 🔄 Real-time synchronized YouTube playback
-* 🎮 Host-controlled play, pause, and seeking
-* 💬 Real-time room chat
-* 😀 Live emoji reactions
-* 🔁 Playback resynchronization
-* 🔌 Handling of disconnected users
-* 🧹 Automatic cleanup of inactive rooms
-
-**Tech:** HTML5 • CSS3 • JavaScript • Firebase Realtime Database • Firebase Authentication • YouTube IFrame Player API • GitHub Pages
+**Tech:** JavaScript • Firebase • YouTube IFrame Player API • GitHub Pages
 
 ---
 
@@ -140,8 +127,6 @@ Marketplace connecting customers with local service providers.
 Property management platform with MPesa STK Push integration.
 
 **Tech:** PHP • MySQL • MPesa API
-
----
 
 ### 🤖 Machine Learning Projects
 
@@ -201,7 +186,7 @@ Property management platform with MPesa STK Push integration.
 
 🐙 **GitHub**
 
-https://github.com/NicoleMumo
+[https://github.com/NicoleMumo](https://github.com/NicoleMumo)
 
 📍 **Location**
 
