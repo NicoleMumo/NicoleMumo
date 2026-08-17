@@ -146,9 +146,9 @@ Property management platform with MPesa STK Push integration.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NicoleMumo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats-ten-ochre-21.vercel.app/api?username=NicoleMumo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicoleMumo&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-ten-ochre-21.vercel.app/api/top-langs/?username=NicoleMumo&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
