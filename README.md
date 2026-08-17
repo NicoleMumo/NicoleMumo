@@ -1,11 +1,10 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:4F46E5,100:7C3AED&height=220&section=header&text=Nicole%20Mumo&fontSize=45&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Full-Stack%20Developer%20|%20Android%20Developer%20|%20ML%20Enthusiast&descAlignY=60&descColor=C4B5FD"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:4F46E5,100:7C3AED&height=220&section=header&text=Nicole%20Mumo&fontSize=45&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Android%20Developer%20%7C%20ML%20Enthusiast&descAlignY=60&descColor=C4B5FD"/>
 </p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=C4B5FD&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Android+Developer;Full-Stack+Developer;Machine+Learning+Enthusiast;IoT+Developer;Always+Learning+New+Technologies"/>
 </p>
-
 
 ---
 
@@ -19,19 +18,17 @@ I enjoy solving real-world problems through intuitive user experiences, scalable
 
 # 🚀 Current Focus
 
-- 🎓 Completing my Bachelor's in Computer Science
-- 📱 Android Development using Kotlin & Jetpack Compose
-- 🤖 Machine Learning with Scikit-learn & Pandas
-- 🌐 Full Stack Web Development
-- ☁️ Cloud Deployment & CI/CD
-- 📡 IoT Systems using ESP32, MQTT & HiveMQ
+* 🎓 Completing my Bachelor's in Computer Science
+* 📱 Android Development using Kotlin & Jetpack Compose
+* 🤖 Machine Learning with Scikit-learn & Pandas
+* 🌐 Full Stack Web Development
+* ☁️ Cloud Deployment & CI/CD
+* 📡 IoT Systems using ESP32, MQTT & HiveMQ
 
 ---
 
 # 💻 Tech Stack
 
-
----
 ## 💻 Languages
 
 <p>
@@ -71,6 +68,7 @@ I enjoy solving real-world problems through intuitive user experiences, scalable
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
+
 ## 📡 IoT
 
 <p align="left">
@@ -79,8 +77,8 @@ I enjoy solving real-world problems through intuitive user experiences, scalable
   <img src="https://img.shields.io/badge/HiveMQ-FFC000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino"/>
 </p>
----
 
+---
 
 # ⭐ Featured Projects
 
@@ -108,6 +106,27 @@ Full-stack e-commerce platform supporting online payments.
 
 ---
 
+### 🎬 [Mini Cinema](https://github.com/IS-PROJECT-2026/mini-cinema-169979)
+
+Real-time watch-party web application that allows users to create or join rooms, watch YouTube videos together with synchronized playback, and communicate through real-time chat and emoji reactions.
+
+**My Contribution:** Sole contributor and developer of the repository.
+
+**Key Features:**
+
+* 🎥 Create and join private watch rooms
+* 🔄 Real-time synchronized YouTube playback
+* 🎮 Host-controlled play, pause, and seeking
+* 💬 Real-time room chat
+* 😀 Live emoji reactions
+* 🔁 Playback resynchronization
+* 🔌 Handling of disconnected users
+* 🧹 Automatic cleanup of inactive rooms
+
+**Tech:** HTML5 • CSS3 • JavaScript • Firebase Realtime Database • Firebase Authentication • YouTube IFrame Player API • GitHub Pages
+
+---
+
 ### 🏡 [Kazi Road Service Marketplace](https://github.com/NicoleMumo/KAZI-ROAD-SERVICE-MARKETPLACE)
 
 Marketplace connecting customers with local service providers.
@@ -122,19 +141,17 @@ Property management platform with MPesa STK Push integration.
 
 **Tech:** PHP • MySQL • MPesa API
 
-### 🤖 Machine Learning Projects
-
-- Classification Models
-- Regression Models
-- Data Cleaning
-- Exploratory Data Analysis
-- Model Evaluation
-
-**Tech:** Python • Pandas • Scikit-learn
-
 ---
 
+### 🤖 Machine Learning Projects
 
+* Classification Models
+* Regression Models
+* Data Cleaning
+* Exploratory Data Analysis
+* Model Evaluation
+
+**Tech:** Python • Pandas • Scikit-learn
 
 ---
 
@@ -166,10 +183,6 @@ Property management platform with MPesa STK Push integration.
 
 ---
 
-
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
@@ -184,7 +197,7 @@ Property management platform with MPesa STK Push integration.
 
 📧 **Email**
 
-nicolemumo3@gmail.com
+[nicolemumo3@gmail.com](mailto:nicolemumo3@gmail.com)
 
 🐙 **GitHub**
 
