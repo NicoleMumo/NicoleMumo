@@ -97,6 +97,14 @@ Android marketplace connecting farmers directly to consumers.
 **Tech:** Kotlin • Jetpack Compose • Firebase
 
 ---
+### 🎬 [Mini Cinema](https://github.com/IS-PROJECT-2026/mini-cinema-169979)
+
+Real-time watch-party web application for synchronized YouTube viewing and communication.
+
+**Tech:** JavaScript • Firebase • YouTube IFrame Player API • GitHub Pages
+
+---
+
 
 ### 🛒 [Farm Direct E-Commerce Website](https://github.com/NicoleMumo/FARM-DIRECT-ECOMMERCE-WEBSITE)
 
@@ -106,14 +114,7 @@ Full-stack e-commerce platform supporting online payments.
 
 ---
 
-### 🎬 [Mini Cinema](https://github.com/IS-PROJECT-2026/mini-cinema-169979)
-
-Real-time watch-party web application for synchronized YouTube viewing and communication.
-
-**Tech:** JavaScript • Firebase • YouTube IFrame Player API • GitHub Pages
-
----
-
+ 
 ### 🏡 [Kazi Road Service Marketplace](https://github.com/NicoleMumo/KAZI-ROAD-SERVICE-MARKETPLACE)
 
 Marketplace connecting customers with local service providers.
