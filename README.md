@@ -100,7 +100,7 @@ Android marketplace connecting farmers directly to consumers.
 ---
 ### 🎬 [Mini Cinema](https://github.com/IS-PROJECT-2026/mini-cinema-169979)
 
-Real-time watch-party web application for synchronized YouTube viewing and communication.
+Web application for watching YouTube videos together.
 
 **Tech:** JavaScript • Firebase • YouTube IFrame Player API • GitHub Pages
 
