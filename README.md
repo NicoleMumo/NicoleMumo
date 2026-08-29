@@ -135,11 +135,7 @@ Property management platform with MPesa STK Push integration.
 
 Transformer-based real-time AI assistant guiding sales agents through client onboarding.
 
-* Classification Models
-* Regression Models
-* Data Cleaning
-* Exploratory Data Analysis
-* Model Evaluation
+ 
 
 **Tech:** Python • Pandas • Scikit-learn
 
