@@ -131,6 +131,17 @@ Property management platform with MPesa STK Push integration.
 **Tech:** PHP • MySQL • MPesa API
 
 ### 🤖 Machine Learning Projects
+### 🤖 [Sales Onboarding Guidance System (AI)](https://github.com/NicoleMumo/SALES-ONBOARDING-GUIDANCE-SYSTEM-AI-)
+
+Transformer-based real-time AI assistant guiding sales agents through client onboarding.
+
+* Classification Models
+* Regression Models
+* Data Cleaning
+* Exploratory Data Analysis
+* Model Evaluation
+
+**Tech:** Python • Pandas • Scikit-learn
 
 * Classification Models
 * Regression Models
