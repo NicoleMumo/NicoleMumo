@@ -148,7 +148,7 @@ Property management platform with MPesa STK Push integration.
 
 <img height="170" src="https://github-readme-stats-ten-ochre-21.vercel.app/api?username=NicoleMumo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_bust=2"/>
 
-<img height="170" src="https://github-readme-stats-ten-ochre-21.vercel.app/api/top-langs/?username=NicoleMumo&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-ten-ochre-21.vercel.app/api/top-langs/?username=NicoleMumo&layout=compact&theme=tokyonight&hide_border=true&cache_bust=2"/>
 
 </p>
 
@@ -156,7 +156,7 @@ Property management platform with MPesa STK Push integration.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=NicoleMumo&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=NicoleMumo&theme=tokyonight&hide_border=true&cache_bust=2"/>
 
 </p>
 
@@ -164,7 +164,7 @@ Property management platform with MPesa STK Push integration.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NicoleMumo&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph-seven-dusky.vercel.app/graph?username=NicoleMumo&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
