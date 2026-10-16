@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=F472B6&center=true&vCenter=true&width=850&lines=Android+Developer;Full-Stack+Developer;Machine+Learning;Computer+Science+at+Strathmore"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=F472B6&center=true&vCenter=true&width=850&lines=Android+Developer;Full-Stack+Developer;Machine+Learning;Exploring+Robotics;Exploring+Computer+Vision;Exploring+Bioinformatics;Exploring+Non-Invasive+Computer+Control;Computer+Science"/>
 </p>
 
 ---
