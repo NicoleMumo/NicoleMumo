@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:B5179E,100:7209B7&height=220&section=header&text=Nicole%20Mumo&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20%7C%20Full-Stack%20%7C%20Machine%20Learning&descAlignY=60&descColor=FFFFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:DB2777,100:F43F5E&height=220&section=header&text=Nicole%20Mumo&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20%7C%20Full-Stack%20%7C%20Machine%20Learning&descAlignY=60&descColor=FFFFFF"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=4CC9F0&center=true&vCenter=true&width=850&lines=Android+Developer;Full-Stack+Developer;Machine+Learning;Computer+Science+at+Strathmore"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=F472B6&center=true&vCenter=true&width=850&lines=Android+Developer;Full-Stack+Developer;Machine+Learning;Computer+Science+at+Strathmore"/>
 </p>
 
 ---
@@ -182,6 +182,6 @@ Low-cost smart farming system. Sensors track soil moisture, temperature, and hum
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:B5179E,100:7209B7&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:DB2777,100:F43F5E&height=120&section=footer"/>
 
 </p>
