@@ -6,17 +6,17 @@
 <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF0080&center=true&vCenter=true&width=850&lines=Computer+Science+at+Strathmore+University;Android+Apps;Full-Stack+Web+Apps;AI+and+Machine+Learning"/>
 </p>
 
-# 👋 About Me
+#   About Me
 
 I'm a Computer Science student at **Strathmore University** in Nairobi (Class of 2027). So far I've built apps for the needs around me, like farming, local services, housing, and sales. I'm going deep on three areas rather than skimming everything, and now I want to explore wider fields.
 
-| 📱 Android | 🌐 Full-Stack Web | 🧠 AI and ML |
+|   Android |   Full-Stack Web |   AI and ML |
 |---|---|---|
 | Kotlin, Jetpack Compose, and Firebase | React, Next.js, Node.js, and databases | Machine learning, deep learning, and neural networks. Training, testing, and using AI models in Python |
 
 ---
 
-# 🚀 Projects
+#   Projects
 
 What I've built so far, grouped by area.
 
@@ -32,7 +32,7 @@ What I've built so far, grouped by area.
 
 ---
 
-# 🛠️ Tech Stack
+#   Tech Stack
 
 The languages, frameworks, and tools I work with.
 
@@ -45,7 +45,7 @@ The languages, frameworks, and tools I work with.
 
 ---
 
-# 🔭 Areas I'd Like to Explore
+#  Areas I'd Like to Explore
 
 My work so far has been for my immediate environment. Next, I want to explore fields with a wider reach . These are interests I want to learn more about. 
 
