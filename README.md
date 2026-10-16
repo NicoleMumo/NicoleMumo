@@ -29,7 +29,7 @@ Sensors and a web dashboard that tell smallholder farmers when to irrigate.
 `ESP32` `MQTT` `PHP` `MySQL`
 
 ### 🎬 [Mini Cinema](https://github.com/IS-PROJECT-2026/mini-cinema-169979)
-Watch YouTube in sync with friends, with live chat and reactions. [Live demo →](https://is-project-2026.github.io/mini-cinema-169979/)  
+Watch YouTube in sync with friends, with live chat and reactions.  
 `JavaScript` `Firebase` `YouTube IFrame API`
 
 ### 🛠️ [Kazi Road Service Marketplace](https://github.com/NicoleMumo/KAZI-ROAD-SERVICE-MARKETPLACE)
