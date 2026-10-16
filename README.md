@@ -38,7 +38,7 @@ I mostly build Android apps in Kotlin, and I'm also working on machine learning 
 
 These are interests I want to learn about, not skills I claim.
 
-- **Non-invasive computer control:** controlling computers without implanted devices, for example through non-invasive brain signals, eye tracking, or gesture-based interaction. I haven't settled on an approach.
+- **Non-invasive computer control:** controlling computers without implanted devices, for example through non-invasive brain signals, eye tracking, or gesture-based interaction.  
 - **Robotics:** combining software, intelligent systems, sensors, and physical devices.
 - **Bioinformatics:** applying computing and machine learning to biological data.
 - **Computer vision:** helping computers interpret images and visual information.
