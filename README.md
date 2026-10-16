@@ -6,33 +6,33 @@
 <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF0080&center=true&vCenter=true&width=850&lines=Computer+Science+at+Strathmore+University;Android+Apps;Full-Stack+Web+Apps;AI+and+Machine+Learning"/>
 </p>
 
-# 👋 About Me
+#   About Me
 
 I'm a Computer Science student at **Strathmore University** in Nairobi (Class of 2027). So far I've built apps for the needs around me, like farming, local services, housing, and sales. I'm going deep on three areas rather than skimming everything, and now I want to explore wider fields.
 
-| 📱 Android | 🌐 Full-Stack Web | 🧠 AI and ML |
+|   Android |   Full-Stack Web |   AI and ML |
 |---|---|---|
 | Kotlin, Jetpack Compose, and Firebase | React, Next.js, Node.js, and databases | Machine learning, deep learning, and neural networks. Training, testing, and using AI models in Python |
 
 ---
 
-# 🚀 Projects
+#   Projects
 
 What I've built so far, grouped by area.
 
 | Area | Project | What it does | Built with |
 |---|---|---|---|
 | Android | [Farm Direct Mobile App](https://github.com/NicoleMumo/FARM-DIRECT-MOBILE-APP) | Buy fresh produce straight from the farmer, right from your phone. | `Kotlin` `Jetpack Compose` `Firebase` |
-| AI | [Sales Onboarding Guidance System](https://github.com/NicoleMumo/SALES-ONBOARDING-GUIDANCE-SYSTEM-AI-) | An AI assistant that guides sales agents through signing up customers, one step at a time. | `Android` `Python` `Transformers` |
-| IoT | [Agriculture IoT Project](https://github.com/NicoleMumo/AGRICULTURE-IOT-PROJECT) | Sensors that tell farmers exactly when their crops need water. | `ESP32` `MQTT` `PHP` `MySQL` |
-| Web | [Mini Cinema](https://github.com/IS-PROJECT-2026/mini-cinema-169979) | Movie night with friends, perfectly in sync, even when you're far apart. [Live demo](https://is-project-2026.github.io/mini-cinema-169979/) | `JavaScript` `Firebase` |
+| AI | [Sales Onboarding Guidance System](https://github.com/NicoleMumo/SALES-ONBOARDING-GUIDANCE-SYSTEM-AI-) | An AI assistant that guides sales agents through onboarding customers, one step at a time ensuring consistency. | `Android` `Python` `Transformers` |
+| IoT | [Agriculture IoT Project](https://github.com/NicoleMumo/AGRICULTURE-IOT-PROJECT) | Sensors that tell farmers exactly when their crops need water and other rising concerns. | `ESP32` `MQTT` `PHP` `MySQL` |
+| Web | [Mini Cinema](https://github.com/IS-PROJECT-2026/mini-cinema-169979) | Watch synced Youtube videos with your friends! [Live demo](https://is-project-2026.github.io/mini-cinema-169979/) | `JavaScript` `Firebase` |
 | Web | [Kazi Road Marketplace](https://github.com/NicoleMumo/KAZI-ROAD-SERVICE-MARKETPLACE) | A prototype for finding trusted local service providers in a few taps. | `Next.js` `TypeScript` `Tailwind` |
 | Web | [Farm Direct Website](https://github.com/NicoleMumo/FARM-DIRECT-ECOMMERCE-WEBSITE) | An online farm shop where you can pay with Pesapal. | `React` `Node.js` `PHP` `MySQL` |
-| Web | [Real Estate Management System](https://github.com/NicoleMumo/Real-Estate-Management-System) | Book a home, get help when something breaks, and pay with M-Pesa. My fork of [ianwambaire's project](https://github.com/ianwambaire/Real-Estate-Management-System). | `PHP` `MySQL` |
+| Web | [Real Estate Management System](https://github.com/NicoleMumo/Real-Estate-Management-System) | Book a home, get help when something breaks, and pay with M-Pesa.  | `PHP` `MySQL` |
 
 ---
 
-# 🛠️ Tech Stack
+#   Tech Stack
 
 The languages, frameworks, and tools I work with.
 
@@ -58,7 +58,7 @@ My work so far has been for my immediate environment. Next, I want to explore fi
 
 ---
 
-# 📊 GitHub Stats
+#   GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=NicoleMumo&show_icons=true&bg_color=0F0A24&title_color=FF0080&text_color=65DEF1&icon_color=FF8C00&hide_border=true&include_all_commits=true&cache_bust=2"/>
@@ -75,10 +75,9 @@ My work so far has been for my immediate environment. Next, I want to explore fi
 
 ---
 
-# 📬 Contact
+#   Contact
 
-Email: [nicolemumo3@gmail.com](mailto:nicolemumo3@gmail.com) · GitHub: [NicoleMumo](https://github.com/NicoleMumo) · Nairobi, Kenya
-
+Email: [nicolemumo3@gmail.com](mailto:nicolemumo3@gmail.com)  
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:FF8C00,100:63BDE0&height=120&section=footer"/>
 </p>
