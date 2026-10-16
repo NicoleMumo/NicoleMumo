@@ -10,129 +10,66 @@
 
 # Hey, I'm Nicole 👋
 
-I'm a Computer Science student at **Strathmore University** in Nairobi (Class of 2027). I start with Android and build outward: the web platforms, the machine learning, and the sensors that make an app actually useful.
-
-I like problems close to home: getting farm produce to buyers, finding a reliable plumber, collecting rent over M-Pesa, helping a new sales agent onboard a client without fumbling. Every project below started with one of those.
-
-I'm building toward a startup of my own, and each project is practice for it.
-
----
-
-# What I Build
-
-- **Android apps** in Kotlin with Jetpack Compose and Firebase. This is where I'm strongest.
-- **Web platforms** with React, Next.js, Node.js and PHP, including M-Pesa and Pesapal payments.
-- **Machine learning** in Python: data pipelines, classical models, and Transformers.
-- **IoT systems** with ESP32 and MQTT, feeding live web dashboards.
+Computer Science student at **Strathmore University**, Nairobi (Class of 2027). I build Android apps first, then the web and ML systems around them, aimed at problems close to home: farming, local services, property, and sales. Building toward a startup of my own.
 
 ---
 
 # Featured Projects
 
-### 🥇 [Sales Onboarding Guidance System (SalesMesh)](https://github.com/NicoleMumo/SALES-ONBOARDING-GUIDANCE-SYSTEM-AI-)
-
-**My capstone.** An Android AI assistant that guides sales agents through customer onboarding in real time. A Transformer model validates the information they collect and predicts the next step, so a new agent always knows what to do next.
-
-**Tech:** Android • Python • Transformers • Pandas • Scikit-learn • Firebase
+### 🥇 [SalesMesh: Sales Onboarding Guidance System](https://github.com/NicoleMumo/SALES-ONBOARDING-GUIDANCE-SYSTEM-AI-)
+My capstone. An Android AI assistant that uses a Transformer to guide sales agents through customer onboarding, validate their input, and predict the next step.  
+`Android` `Python` `Transformers` `Scikit-learn`
 
 ### 🌽 [Farm Direct Mobile App](https://github.com/NicoleMumo/FARM-DIRECT-MOBILE-APP)
-
-A farm-to-consumer marketplace with three roles. Farmers list products and manage orders, consumers browse and order, and admins oversee users and listings. Authentication and data run on Firebase, and the dashboards are built in Jetpack Compose.
-
-**Tech:** Kotlin • Jetpack Compose • Firebase Auth • Firestore
+Farm-to-consumer marketplace for farmers, consumers and admins.  
+`Kotlin` `Jetpack Compose` `Firebase`
 
 ### 🌱 [Agriculture IoT Project](https://github.com/NicoleMumo/AGRICULTURE-IOT-PROJECT)
-
-Low-cost smart farming for smallholder farmers. Sensors track soil moisture, temperature and humidity, and a web dashboard turns the readings into trends and crop-specific advice on when to irrigate.
-
-**Tech:** ESP32 • MQTT • PHP • MySQL
+Sensors and a web dashboard that tell smallholder farmers when to irrigate.  
+`ESP32` `MQTT` `PHP` `MySQL`
 
 ### 🎬 [Mini Cinema](https://github.com/IS-PROJECT-2026/mini-cinema-169979)
-
-Movie night, long distance. Create a room, share the code, and everyone watches the same YouTube video in sync while the host controls playback. Each room has live chat and emoji reactions. [Try the live demo →](https://is-project-2026.github.io/mini-cinema-169979/)
-
-**Tech:** JavaScript • Firebase Realtime Database • YouTube IFrame Player API
+Watch YouTube in sync with friends, with live chat and reactions. [Live demo →](https://is-project-2026.github.io/mini-cinema-169979/)  
+`JavaScript` `Firebase` `YouTube IFrame API`
 
 ### 🛠️ [Kazi Road Service Marketplace](https://github.com/NicoleMumo/KAZI-ROAD-SERVICE-MARKETPLACE)
-
-A marketplace for finding trusted local service providers: cleaning, plumbing, electrical work, transport and more. It has a booking interface, separate customer and admin dashboards, and an interactive 3D globe on the landing page.
-
-**Tech:** Next.js • React • TypeScript • Tailwind CSS • Three.js
+Marketplace for finding local service providers, with customer and admin dashboards.  
+`Next.js` `TypeScript` `Tailwind` `Three.js`
 
 ### 🏘️ [Real Estate Management System](https://github.com/NicoleMumo/Real-Estate-Management-System)
-
-Property management for owners and residents: property bookings, a support helpline, and rent payments through M-Pesa STK Push. Forked from [ianwambaire/Real-Estate-Management-System](https://github.com/ianwambaire/Real-Estate-Management-System).
-
-**Tech:** PHP • MySQL • M-Pesa API
+Property bookings, support helpline and M-Pesa rent payments. Forked from [ianwambaire](https://github.com/ianwambaire/Real-Estate-Management-System).  
+`PHP` `MySQL` `M-Pesa API`
 
 ### 🛒 [Farm Direct E-Commerce Website](https://github.com/NicoleMumo/FARM-DIRECT-ECOMMERCE-WEBSITE)
-
-The web storefront for Farm Direct, with online payments through Pesapal.
-
-**Tech:** React • Node.js • PHP • MySQL • Pesapal
+Web storefront for Farm Direct with Pesapal payments.  
+`React` `Node.js` `PHP` `MySQL`
 
 ---
 
 # Exploring Next
 
-Where I'm headed once the fundamentals are solid:
-
-- 🧠 **Non-invasive computer control:** controlling a computer without surgery, through brain signals, eye tracking or hand gestures. I haven't picked a route yet.
-- 🤖 **Robotics:** my IoT work, with intelligent software and moving parts.
-- 👁️ **Computer vision:** teaching machines to read images.
-- 🧬 **Bioinformatics:** using computing and ML on biological data.
-
----
-
-# Beyond Code
-
-I paint portraits, sculpt characters in Sims 4, and read philosophy and literature. It's the same habit as engineering: study how something works, then make it better.
+🧠 **Non-invasive computer control** (brain signals, eye tracking, gestures) · 🤖 **Robotics** · 👁️ **Computer vision** · 🧬 **Bioinformatics**
 
 ---
 
 # Tech Stack
 
-### Android
-
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
-
-### Web
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### Machine Learning
-
-<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-</p>
-
-### IoT and Tools
-
-<p>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices"/>
 </p>
 
 ---
@@ -161,8 +98,6 @@ I paint portraits, sculpt characters in Sims 4, and read philosophy and literatu
 
 ---
 
-# Contribution Snake
-
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/NicoleMumo/NicoleMumo/output/github-contribution-grid-snake-dark.svg"/>
@@ -173,11 +108,7 @@ I paint portraits, sculpt characters in Sims 4, and read philosophy and literatu
 
 # Let's Connect
 
-**Email:** [nicolemumo3@gmail.com](mailto:nicolemumo3@gmail.com)  
-**GitHub:** [github.com/NicoleMumo](https://github.com/NicoleMumo)  
-**Location:** Nairobi, Kenya
-
----
+📧 [nicolemumo3@gmail.com](mailto:nicolemumo3@gmail.com) · 🐙 [github.com/NicoleMumo](https://github.com/NicoleMumo) · 📍 Nairobi, Kenya
 
 <p align="center">
 
