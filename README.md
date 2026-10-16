@@ -1,9 +1,9 @@
 <p align="center">
-<img alt="Nicole Mumo - Android, Full-Stack Web, AI and Machine Learning" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,28:2A0A3D,72:2A0A3D,100:FF8C00&height=220&section=header&text=Nicole%20Mumo&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Android%20%7C%20Full-Stack%20Web%20%7C%20AI%20and%20Machine%20Learning&descAlignY=60&descColor=FFD289"/>
+<img alt="Nicole Mumo - Android, Full-Stack Web, AI and Machine Learning" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,28:2A0A3D,72:2A0A3D,100:FF8C00&height=220&section=header&text=Nicole%20Mumo&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Android%20%7C%20Full-Stack%20Web%20%7C%20AI%20and%20Machine%20Learning&descAlignY=60&descColor=FFD289&v=2"/>
 </p>
 
 <p align="center">
-<img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF0080&center=true&vCenter=true&width=850&lines=Computer+Science+at+Strathmore+University;Android+Apps;Full-Stack+Web+Apps;AI+and+Machine+Learning"/>
+<img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF0080&center=true&vCenter=true&width=850&lines=Computer+Science+at+Strathmore+University;Android+Apps;Full-Stack+Web+Apps;AI+and+Machine+Learning&v=2"/>
 </p>
 
 #   About Me
