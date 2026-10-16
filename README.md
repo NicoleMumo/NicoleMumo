@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:500724,50:BE185D,100:EC4899&height=220&section=header&text=Nicole%20Mumo&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%20and%20Machine%20Learning%20%7C%20Full-Stack%20Developer&descAlignY=60&descColor=FFFFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:DB2777,100:F43F5E&height=220&section=header&text=Nicole%20Mumo&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%20and%20Machine%20Learning%20%7C%20Full-Stack%20Developer&descAlignY=60&descColor=FFFFFF"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Computer+Science+Student;AI+and+Machine+Learning;Full-Stack+Development;Android+Development;Building+practical+software"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=F472B6&center=true&vCenter=true&width=850&lines=Computer+Science+Student;AI+and+Machine+Learning;Full-Stack+Development;Android+Development;Building+practical+software"/>
 </p>
 
 ---
@@ -164,21 +164,21 @@ Low-cost smart farming system that monitors soil moisture, temperature, and humi
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-ten-ochre-21.vercel.app/api?username=NicoleMumo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_bust=2"/>
+<img height="170" src="https://github-readme-stats-ten-ochre-21.vercel.app/api?username=NicoleMumo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_bust=2"/>
 
-<img height="170" src="https://github-readme-stats-ten-ochre-21.vercel.app/api/top-langs/?username=NicoleMumo&layout=compact&theme=tokyonight&hide_border=true&cache_bust=2"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=NicoleMumo&theme=tokyonight&hide_border=true&cache_bust=2"/>
+<img height="170" src="https://github-readme-stats-ten-ochre-21.vercel.app/api/top-langs/?username=NicoleMumo&layout=compact&theme=radical&hide_border=true&cache_bust=2"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph-seven-dusky.vercel.app/graph?username=NicoleMumo&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=NicoleMumo&theme=radical&hide_border=true&cache_bust=2"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph-seven-dusky.vercel.app/graph?username=NicoleMumo&theme=rogue&hide_border=true"/>
 
 </p>
 
@@ -204,6 +204,6 @@ Low-cost smart farming system that monitors soil moisture, temperature, and humi
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:500724,50:BE185D,100:EC4899&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:DB2777,100:F43F5E&height=120&section=footer"/>
 
 </p>
