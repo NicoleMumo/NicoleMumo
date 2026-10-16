@@ -6,33 +6,33 @@
 <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF0080&center=true&vCenter=true&width=850&lines=Computer+Science+at+Strathmore+University;Android+Apps;Full-Stack+Web+Apps;AI+and+Machine+Learning"/>
 </p>
 
-#   About Me
+# 👋 About Me
 
 I'm a Computer Science student at **Strathmore University** in Nairobi (Class of 2027). So far I've built apps for the needs around me, like farming, local services, housing, and sales. I'm going deep on three areas rather than skimming everything, and now I want to explore wider fields.
 
-|   Android |   Full-Stack Web |   AI and ML |
+| 📱 Android | 🌐 Full-Stack Web | 🧠 AI and ML |
 |---|---|---|
 | Kotlin, Jetpack Compose, and Firebase | React, Next.js, Node.js, and databases | Machine learning, deep learning, and neural networks. Training, testing, and using AI models in Python |
 
 ---
 
-#   Projects
+# 🚀 Projects
 
 What I've built so far, grouped by area.
 
 | Area | Project | What it does | Built with |
 |---|---|---|---|
 | Android | [Farm Direct Mobile App](https://github.com/NicoleMumo/FARM-DIRECT-MOBILE-APP) | Android prototype of a farm-to-consumer marketplace. Farmers manage products and orders, consumers browse and order, admins monitor users and listings. | `Kotlin` `Jetpack Compose` `Firebase` |
-| AI/Android | [Sales Onboarding Guidance System](https://github.com/NicoleMumo/SALES-ONBOARDING-GUIDANCE-SYSTEM-AI-) | Android AI assistant that uses a Transformer to guide sales agents through onboarding, check their input, and predict the next step. | `Android` `Python` `Transformers` |
+| AI | [Sales Onboarding Guidance System](https://github.com/NicoleMumo/SALES-ONBOARDING-GUIDANCE-SYSTEM-AI-) | Android AI assistant that uses a Transformer to guide sales agents through onboarding, check their input, and predict the next step. | `Android` `Python` `Transformers` |
 | IoT | [Agriculture IoT Project](https://github.com/NicoleMumo/AGRICULTURE-IOT-PROJECT) | Tracks soil moisture, temperature and humidity, and shows farmers live data, trends, and watering advice on a web dashboard. | `ESP32` `MQTT` `PHP` `MySQL` |
-| Web | [Mini Cinema](https://github.com/IS-PROJECT-2026/mini-cinema-169979) | Watch YouTube in sync with friends, with live chat and reactions.   | `JavaScript` `Firebase` |
+| Web | [Mini Cinema](https://github.com/IS-PROJECT-2026/mini-cinema-169979) | Watch YouTube in sync with friends, with live chat and reactions. [Live demo](https://is-project-2026.github.io/mini-cinema-169979/) | `JavaScript` `Firebase` |
 | Web | [Kazi Road Marketplace](https://github.com/NicoleMumo/KAZI-ROAD-SERVICE-MARKETPLACE) | Frontend prototype linking customers with local service providers, with client and admin views. Uses demo data for now. | `Next.js` `TypeScript` `Tailwind` |
 | Web | [Farm Direct Website](https://github.com/NicoleMumo/FARM-DIRECT-ECOMMERCE-WEBSITE) | Web storefront for Farm Direct, with Pesapal payments. | `React` `Node.js` `PHP` `MySQL` |
 | Web | [Real Estate Management System](https://github.com/NicoleMumo/Real-Estate-Management-System) | Property bookings, a support helpline, and M-Pesa payments. My fork of [ianwambaire's project](https://github.com/ianwambaire/Real-Estate-Management-System). | `PHP` `MySQL` |
 
 ---
 
-#   Tech Stack
+# 🛠️ Tech Stack
 
 The languages, frameworks, and tools I work with.
 
@@ -45,9 +45,9 @@ The languages, frameworks, and tools I work with.
 
 ---
 
-#  Areas I'd Like to Explore
+# 🔭 Areas I'd Like to Explore
 
-My work so far has been for my immediate environment. Next, I want to explore fields with a wider reach . These are interests I want to learn more about. 
+My work so far has been for my immediate environment. Next, I want to explore fields with a wider reach and a bigger market. These are interests I want to learn more about. I haven't specialised in them yet.
 
 | Area | What draws me in |
 |---|---|
@@ -61,12 +61,12 @@ My work so far has been for my immediate environment. Next, I want to explore fi
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats-ten-ochre-21.vercel.app/api?username=NicoleMumo&show_icons=true&bg_color=0F0A24&title_color=FF0080&text_color=65DEF1&icon_color=FF8C00&hide_border=true&include_all_commits=true&cache_bust=2"/>
-<img height="170" src="https://github-readme-stats-ten-ochre-21.vercel.app/api/top-langs/?username=NicoleMumo&layout=compact&bg_color=0F0A24&title_color=FF0080&text_color=65DEF1&hide_border=true&cache_bust=2"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NicoleMumo&show_icons=true&bg_color=0F0A24&title_color=FF0080&text_color=65DEF1&icon_color=FF8C00&hide_border=true&include_all_commits=true&cache_bust=2"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleMumo&layout=compact&bg_color=0F0A24&title_color=FF0080&text_color=65DEF1&hide_border=true&cache_bust=2"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=NicoleMumo&background=0F0A24&ring=FF0080&fire=FF8C00&currStreakNum=65DEF1&sideNums=FFD289&currStreakLabel=FF0080&sideLabels=FFFFFF&dates=63BDE0&stroke=63BDE0&hide_border=true&cache_bust=2"/>
+<img src="https://streak-stats.demolab.com/?user=NicoleMumo&background=0F0A24&ring=FF0080&fire=FF8C00&currStreakNum=65DEF1&sideNums=FFD289&currStreakLabel=FF0080&sideLabels=FFFFFF&dates=63BDE0&stroke=63BDE0&hide_border=true&cache_bust=2"/>
 </p>
 
 <p align="center">
