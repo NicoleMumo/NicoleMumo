@@ -47,7 +47,7 @@ The languages, frameworks, and tools I work with.
 
 # 🔭 Areas I'd Like to Explore
 
-My work so far has been for my immediate environment. Next, I want to explore fields with a wider reach and a bigger market. These are interests I want to learn more about. I haven't specialised in them yet.
+My work so far has been for my immediate environment. Next, I want to explore fields with a wider reach . These are interests I want to learn more about. 
 
 | Area | What draws me in |
 |---|---|
