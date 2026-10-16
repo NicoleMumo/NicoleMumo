@@ -29,7 +29,7 @@ I mostly build Android apps in Kotlin, and I'm also working on machine learning 
 - APIs, databases, and complete web applications
 - Developing further: TypeScript, JavaScript, PostgreSQL
 
-**Android Development** (additional skill area)
+**Android Development**  
 - Kotlin, Jetpack Compose, and Firebase
 
 ---
