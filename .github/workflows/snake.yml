@@ -4,9 +4,9 @@
 # It creates the snake image and saves it on a branch called "output",
 # which is the path your README already points to.
 #
-# Colors: every contribution dot is the same hot pink (#FF0080),
-# empty days are dark grey (#2A2F3A), and the snake is bright cyan (#00E5FF).
-# Pink and cyan sit far apart, so the snake is easy to follow on a dark page.
+# Colors: the original GitHub dark colors (green dots, purple snake).
+# To go back to custom colors, replace "palette=github-dark" with
+#   color_snake=#00E5FF&color_dots=#2A2F3A,#FF0080,#FF0080,#FF0080,#FF0080
 
 name: Generate Snake
 
@@ -30,7 +30,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#00E5FF&color_dots=#2A2F3A,#FF0080,#FF0080,#FF0080,#FF0080
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
