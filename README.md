@@ -8,7 +8,7 @@
 
 #   About Me
 
-I'm a Computer Science student at **Strathmore University** in Nairobi (Class of 2027). So far I've built apps for the needs around me, like farming, local services, housing, and sales. I'm going deep on three areas rather than skimming everything, and now I want to explore wider fields.
+I'm a Computer Science student at **Strathmore University** in Nairobi (Class of 2027). So far I've built apps for the needs around me, like farming, local services, housing, and sales.  I focus on three areas and go deep in each, and I'm now looking to explore wider fields.
 
 |   Android |   Full-Stack Web |   AI and ML |
 |---|---|---|
