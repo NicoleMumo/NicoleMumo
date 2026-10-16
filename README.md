@@ -36,7 +36,7 @@ I mostly build Android apps in Kotlin, and I'm also working on machine learning 
 
 # Areas I'd Like to Explore
 
-These are interests I want to learn about, not skills I claim.
+ 
 
 - **Non-invasive computer control:** controlling computers without implanted devices, for example through non-invasive brain signals, eye tracking, or gesture-based interaction.  
 - **Robotics:** combining software, intelligent systems, sensors, and physical devices.
