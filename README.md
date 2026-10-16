@@ -23,7 +23,7 @@ What I've built so far, grouped by area.
 | Area | Project | What it does | Built with |
 |---|---|---|---|
 | Android | [Farm Direct Mobile App](https://github.com/NicoleMumo/FARM-DIRECT-MOBILE-APP) | Android prototype of a farm-to-consumer marketplace. Farmers manage products and orders, consumers browse and order, admins monitor users and listings. | `Kotlin` `Jetpack Compose` `Firebase` |
-| AI | [Sales Onboarding Guidance System](https://github.com/NicoleMumo/SALES-ONBOARDING-GUIDANCE-SYSTEM-AI-) | Android AI assistant that uses a Transformer to guide sales agents through onboarding, check their input, and predict the next step. | `Android` `Python` `Transformers` |
+| AI/Android | [Sales Onboarding Guidance System](https://github.com/NicoleMumo/SALES-ONBOARDING-GUIDANCE-SYSTEM-AI-) | Android AI assistant that uses a Transformer to guide sales agents through onboarding, check their input, and predict the next step. | `Android` `Python` `Transformers` |
 | IoT | [Agriculture IoT Project](https://github.com/NicoleMumo/AGRICULTURE-IOT-PROJECT) | Tracks soil moisture, temperature and humidity, and shows farmers live data, trends, and watering advice on a web dashboard. | `ESP32` `MQTT` `PHP` `MySQL` |
 | Web | [Mini Cinema](https://github.com/IS-PROJECT-2026/mini-cinema-169979) | Watch YouTube in sync with friends, with live chat and reactions. [Live demo](https://is-project-2026.github.io/mini-cinema-169979/) | `JavaScript` `Firebase` |
 | Web | [Kazi Road Marketplace](https://github.com/NicoleMumo/KAZI-ROAD-SERVICE-MARKETPLACE) | Frontend prototype linking customers with local service providers, with client and admin views. Uses demo data for now. | `Next.js` `TypeScript` `Tailwind` |
