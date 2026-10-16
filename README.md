@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:500724,50:BE185D,100:EC4899&height=220&section=header&text=Nicole%20Mumo&fontSize=45&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20Machine%20Learning%20%7C%20Full-Stack%20Developer&descAlignY=60&descColor=FFF1F2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:500724,50:BE185D,100:EC4899&height=220&section=header&text=Nicole%20Mumo&fontSize=45&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%20and%20Machine%20Learning%20%7C%20Full-Stack%20Developer&descAlignY=60&descColor=FFF1F2"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=F9A8D4&center=true&vCenter=true&width=850&lines=Computer+Science+Student;AI+%26+Machine+Learning;Full-Stack+Development;Android+Development;Building+practical+software"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=F9A8D4&center=true&vCenter=true&width=850&lines=Computer+Science+Student;AI+and+Machine+Learning;Full-Stack+Development;Android+Development;Building+practical+software"/>
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 I'm a Computer Science student at **Strathmore University (Class of 2027)**, based in Nairobi, Kenya.
 
-I want to understand computer science deeply, build practical software, and solve real-world problems. I would rather build strong foundations in a few areas than learn many tools superficially.
+I mostly build Android apps in Kotlin, and I'm also working on machine learning and full-stack web projects. Most of what's below is built around problems I see locally: farming, services, property, and sales.
 
 ---
 
