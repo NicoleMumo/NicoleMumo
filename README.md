@@ -28,7 +28,7 @@ What I've built so far, grouped by area.
 | Web | [Mini Cinema](https://github.com/IS-PROJECT-2026/mini-cinema-169979) | Watch YouTube in sync with friends, with live chat and reactions. [Live demo](https://is-project-2026.github.io/mini-cinema-169979/) | `JavaScript` `Firebase` |
 | Web | [Kazi Road Marketplace](https://github.com/NicoleMumo/KAZI-ROAD-SERVICE-MARKETPLACE) | Frontend prototype linking customers with local service providers, with client and admin views. Uses demo data for now. | `Next.js` `TypeScript` `Tailwind` |
 | Web | [Farm Direct Website](https://github.com/NicoleMumo/FARM-DIRECT-ECOMMERCE-WEBSITE) | Web storefront for Farm Direct, with Pesapal payments. | `React` `Node.js` `PHP` `MySQL` |
-| Web | [Real Estate Management System](https://github.com/NicoleMumo/Real-Estate-Management-System) | Property bookings, a support helpline, and M-Pesa payments. My fork of [ianwambaire's project](https://github.com/ianwambaire/Real-Estate-Management-System). | `PHP` `MySQL` |
+| Web | [Real Estate Management System](https://github.com/NicoleMumo/Real-Estate-Management-System) | Property bookings, a support helpline, and M-Pesa payments.   | `PHP` `MySQL` |
 
 ---
 
