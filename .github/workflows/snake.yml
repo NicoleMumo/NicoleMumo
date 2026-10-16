@@ -1,9 +1,19 @@
+# Save this file in your NicoleMumo/NicoleMumo profile repo as:
+#   .github/workflows/snake.yml
+#
+# It creates the snake image and saves it on a branch called "output",
+# which is the path your README already points to.
+#
+# Colors: every contribution dot is the same hot pink (#FF0080),
+# empty days are dark grey (#2A2F3A), and the snake is bright cyan (#00E5FF).
+# Pink and cyan sit far apart, so the snake is easy to follow on a dark page.
+
 name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # once a day
+  workflow_dispatch:       # lets you run it by hand
   push:
     branches:
       - main
@@ -14,16 +24,15 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#ff4da6&color_dots=#1e1b4b,#7c3aed,#c026d3,#ff4da6,#fb923c
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#00E5FF&color_dots=#2A2F3A,#FF0080,#FF0080,#FF0080,#FF0080
 
-      - name: Publish to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
