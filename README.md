@@ -70,6 +70,10 @@ My work so far has been for my immediate environment. Next, I want to explore fi
 </p>
 
 <p align="center">
+<img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=NicoleMumo&bg_color=0F0A24&color=65DEF1&line=FF0080&point=FF8C00&area=true&area_color=FF0080&title_color=FF0080&hide_border=true&custom_title=Contribution%20Graph"/>
+</p>
+
+<p align="center">
 <img src="https://raw.githubusercontent.com/NicoleMumo/NicoleMumo/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
