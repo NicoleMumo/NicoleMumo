@@ -142,21 +142,21 @@ Low-cost smart farming system. Sensors track soil moisture, temperature, and hum
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-ten-ochre-21.vercel.app/api?username=NicoleMumo&show_icons=true&bg_color=1E1B4B&title_color=F472B6&text_color=BFDBFE&icon_color=A78BFA&hide_border=true&include_all_commits=true&cache_bust=2"/>
+<img height="170" src="https://github-readme-stats-ten-ochre-21.vercel.app/api?username=NicoleMumo&show_icons=true&bg_color=0F0A24&title_color=FF4DA6&text_color=67E8F9&icon_color=FB923C&hide_border=true&include_all_commits=true&cache_bust=2"/>
 
-<img height="170" src="https://github-readme-stats-ten-ochre-21.vercel.app/api/top-langs/?username=NicoleMumo&layout=compact&bg_color=1E1B4B&title_color=F472B6&text_color=BFDBFE&hide_border=true&cache_bust=2"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=NicoleMumo&background=1E1B4B&ring=F472B6&fire=A78BFA&currStreakNum=60A5FA&sideNums=F9A8D4&currStreakLabel=F472B6&sideLabels=BFDBFE&dates=C4B5FD&stroke=7C3AED&hide_border=true&cache_bust=2"/>
+<img height="170" src="https://github-readme-stats-ten-ochre-21.vercel.app/api/top-langs/?username=NicoleMumo&layout=compact&bg_color=0F0A24&title_color=FF4DA6&text_color=67E8F9&hide_border=true&cache_bust=2"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph-seven-dusky.vercel.app/graph?username=NicoleMumo&bg_color=1E1B4B&color=F9A8D4&line=A78BFA&point=60A5FA&area=true&area_color=7C3AED&hide_border=true"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=NicoleMumo&background=0F0A24&ring=FF4DA6&fire=FB923C&currStreakNum=22D3EE&sideNums=FB923C&currStreakLabel=FF4DA6&sideLabels=FFFFFF&dates=67E8F9&stroke=22D3EE&hide_border=true&cache_bust=2"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph-seven-dusky.vercel.app/graph?username=NicoleMumo&bg_color=0F0A24&color=FFFFFF&line=FF4DA6&point=22D3EE&area=true&area_color=FB923C&hide_border=true"/>
 
 </p>
 
