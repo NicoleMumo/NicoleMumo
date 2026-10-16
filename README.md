@@ -1,12 +1,12 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,28:2A0A3D,72:2A0A3D,100:FF8C00&height=220&section=header&text=Nicole%20Mumo&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Android%20%7C%20Full-Stack%20Web%20%7C%20AI%20%26%20Machine%20Learning&descAlignY=60&descColor=FFD289"/>
+<img alt="Nicole Mumo - Android, Full-Stack Web, AI and Machine Learning" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,28:2A0A3D,72:2A0A3D,100:FF8C00&height=220&section=header&text=Nicole%20Mumo&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Android%20%7C%20Full-Stack%20Web%20%7C%20AI%20and%20Machine%20Learning&descAlignY=60&descColor=FFD289"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF0080&center=true&vCenter=true&width=850&lines=Computer+Science+at+Strathmore+University;Android+Apps;Full-Stack+Web+Apps;AI+and+Machine+Learning"/>
+<img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF0080&center=true&vCenter=true&width=850&lines=Computer+Science+at+Strathmore+University;Android+Apps;Full-Stack+Web+Apps;AI+and+Machine+Learning"/>
 </p>
 
-# Hi, I'm Nicole
+# 👋 About Me
 
 I'm a Computer Science student at **Strathmore University** in Nairobi (Class of 2027). So far I've built apps for the needs around me, like farming, local services, housing, and sales. I'm going deep on three areas rather than skimming everything, and now I want to explore wider fields.
 
@@ -16,7 +16,9 @@ I'm a Computer Science student at **Strathmore University** in Nairobi (Class of
 
 ---
 
-# Projects
+# 🚀 Projects
+
+What I've built so far, grouped by area.
 
 | Area | Project | What it does | Built with |
 |---|---|---|---|
@@ -30,7 +32,9 @@ I'm a Computer Science student at **Strathmore University** in Nairobi (Class of
 
 ---
 
-# Tech Stack
+# 🛠️ Tech Stack
+
+The languages, frameworks, and tools I work with.
 
 | Area | Technologies |
 |---|---|
@@ -41,7 +45,7 @@ I'm a Computer Science student at **Strathmore University** in Nairobi (Class of
 
 ---
 
-# Areas I'd Like to Explore
+# 🔭 Areas I'd Like to Explore
 
 My work so far has been for my immediate environment. Next, I want to explore fields with a wider reach and a bigger market. These are interests I want to learn more about. I haven't specialised in them yet.
 
@@ -54,7 +58,7 @@ My work so far has been for my immediate environment. Next, I want to explore fi
 
 ---
 
-# GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats-ten-ochre-21.vercel.app/api?username=NicoleMumo&show_icons=true&bg_color=0F0A24&title_color=FF0080&text_color=65DEF1&icon_color=FF8C00&hide_border=true&include_all_commits=true&cache_bust=2"/>
@@ -71,7 +75,7 @@ My work so far has been for my immediate environment. Next, I want to explore fi
 
 ---
 
-# Contact
+# 📬 Contact
 
 Email: [nicolemumo3@gmail.com](mailto:nicolemumo3@gmail.com) · GitHub: [NicoleMumo](https://github.com/NicoleMumo) · Nairobi, Kenya
 
