@@ -1,8 +1,8 @@
 <p align="center">
-<img alt="Nicole Mumo - Full-Stack Development, Cloud Engineering and AI/ML" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,28:2A0A3D,72:2A0A3D,100:FF8C00&height=220&section=header&text=Nicole%20Mumo&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Cloud%20Engineering%20%7C%20AI%2FML&descAlignY=60&descColor=FFD289&v=2"/>
+<img alt="Nicole Mumo - Full-Stack Development and AI/ML" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,28:2A0A3D,72:2A0A3D,100:FF8C00&height=220&section=header&text=Nicole%20Mumo&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20AI%2FML&descAlignY=60&descColor=FFD289&v=2"/>
 </p>
 <p align="center">
-<img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF0080&center=true&vCenter=true&width=850&lines=Computer+Science+at+Strathmore+University;Building+Full-Stack+Applications;Exploring+Cloud+Engineering;Building+AI+and+Machine+Learning+Systems;Learning+to+Build+Secure+Software&v=2"/>
+<img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF0080&center=true&vCenter=true&width=850&lines=Computer+Science+at+Strathmore+University;Building+Full-Stack+Applications;Building+AI+and+Machine+Learning+Systems&v=2"/>
 </p>
 
 ## About
@@ -11,8 +11,8 @@ Computer Science student at **Strathmore University, Nairobi** (Class of 2027). 
 
 | | |
 |---|---|
-| **Focus** | Full-Stack Development · Cloud Engineering · AI/ML |
-| **Also** | Android · IoT · Security-minded development |
+| **Focus** | Full-Stack Development · AI/ML |
+| **Also built** | Android · IoT |
 | **Contact** | [nicolemumo3@gmail.com](mailto:nicolemumo3@gmail.com) · [GitHub](https://github.com/NicoleMumo) |
 
 ---
@@ -40,23 +40,13 @@ Computer Science student at **Strathmore University, Nairobi** (Class of 2027). 
 | AI/ML | TensorFlow / TFLite, scikit-learn, Transformers |
 | Mobile & IoT | Kotlin, Jetpack Compose, ESP32, MQTT |
 | Payments | M-Pesa, Pesapal |
-| Learning | Linux, networking, containers, CI/CD, cloud deployment |
+| Learning | Deployment, CI/CD |
 
 ---
 
-## Security Practices
+## Currently
 
-| Area | What I apply / am practising |
-|---|---|
-| Application | Auth and authorisation, input validation, API security |
-| Cloud | Least privilege, secrets management, logging and monitoring |
-| AI/ML | Model input validation, data protection, prompt injection and data poisoning awareness |
-
----
-
-## Exploring
-
-Not specialisations yet, just areas I'm building toward: **Cybersecurity · Brain–Computer Interfaces · Computer Vision · Bioinformatics · Robotics**
+Going deeper on deployment and secure authentication, and curious about computer vision and hands-free computer control.
 
 ---
 
