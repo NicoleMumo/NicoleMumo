@@ -1,8 +1,8 @@
 <p align="center">
-<img alt="Nicole Mumo - Full-Stack Development and AI/ML" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,28:2A0A3D,72:2A0A3D,100:FF8C00&height=220&section=header&text=Nicole%20Mumo&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20AI%2FML&descAlignY=60&descColor=FFD289&v=2"/>
+<img alt="Nicole Mumo - Full-Stack Development, Cloud Engineering and AI/ML" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,28:2A0A3D,72:2A0A3D,100:FF8C00&height=220&section=header&text=Nicole%20Mumo&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Cloud%20Engineering%20%7C%20AI%2FML&descAlignY=60&descColor=FFD289&v=2"/>
 </p>
 <p align="center">
-<img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF0080&center=true&vCenter=true&width=850&lines=Computer+Science+at+Strathmore+University;Building+Full-Stack+Applications;Building+AI+and+Machine+Learning+Systems&v=2"/>
+<img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF0080&center=true&vCenter=true&width=850&lines=Computer+Science+at+Strathmore+University;Building+Full-Stack+Applications;Exploring+Cloud+Engineering;Building+AI+and+Machine+Learning+Systems&v=2"/>
 </p>
 
 ## About
@@ -11,9 +11,19 @@ Computer Science student at **Strathmore University, Nairobi** (Class of 2027). 
 
 | | |
 |---|---|
-| **Focus** | Full-Stack Development · AI/ML |
-| **Also built** | Android · IoT |
-| **Contact** | [nicolemumo3@gmail.com](mailto:nicolemumo3@gmail.com) · [GitHub](https://github.com/NicoleMumo) |
+| **Contact** | [nicolemumo3@gmail.com](mailto:nicolemumo3@gmail.com)  |
+
+---
+
+## Focus
+
+| Area | What I'm working on | Status |
+|---|---|---|
+| **Full-Stack** | React, Next.js, Node.js, TypeScript, SQL: frontends, APIs, auth, databases | Built (see projects) |
+| **AI/ML** | Python, Transformers, TensorFlow/TFLite, scikit-learn: training, evaluation, deployment | Built (see projects) |
+| **Cloud Engineering** | AWS, Azure, Linux, deployment | Worked with AWS and Azure; deepening containers and CI/CD |
+
+Security is part of all three: secure auth, input validation, least privilege, secrets management, and AI input validation.
 
 ---
 
@@ -35,18 +45,19 @@ Computer Science student at **Strathmore University, Nairobi** (Class of 2027). 
 
 | Area | Technologies |
 |---|---|
-| Languages | Python, Kotlin, JavaScript, TypeScript, PHP, SQL |
-| Full-stack | React, Next.js, Node.js, Tailwind CSS, MySQL, Firebase |
-| AI/ML | TensorFlow / TFLite, scikit-learn, Transformers |
-| Mobile & IoT | Kotlin, Jetpack Compose, ESP32, MQTT |
-| Payments | M-Pesa, Pesapal |
-| Learning | Deployment, CI/CD |
+| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| Full-stack | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
+| AI/ML | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) |
+| Mobile & IoT | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white) |
+| Cloud | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) |
+| Payments | ![M-Pesa](https://img.shields.io/badge/M--Pesa-4CAF50?style=for-the-badge) ![Pesapal](https://img.shields.io/badge/Pesapal-0072BC?style=for-the-badge) |
+| Learning | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
 
 ---
 
-## Currently
+## Exploring
 
-Going deeper on deployment and secure authentication, and curious about computer vision and hands-free computer control.
+Cybersecurity · Brain–computer interfaces · Computer vision · Bioinformatics · Robotics (curiosities, not specialisations)
 
 ---
 
