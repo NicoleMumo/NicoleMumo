@@ -11,7 +11,7 @@ Computer Science student at **Strathmore University, Nairobi** (Class of 2027). 
 
 | | |
 |---|---|
-| **Contact** | [nicolemumo3@gmail.com](mailto:nicolemumo3@gmail.com) · [GitHub](https://github.com/NicoleMumo) |
+| **Contact** | [nicolemumo3@gmail.com](mailto:nicolemumo3@gmail.com)  |
 
 ---
 
