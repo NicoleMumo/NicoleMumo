@@ -56,7 +56,7 @@ Security is part of all three: secure auth, input validation, least privilege, s
 
 ## Exploring
 
-Cybersecurity · Brain–computer interfaces · Computer vision · Bioinformatics · Robotics (curiosities, not specialisations)
+Brain–computer interfaces  ·  Robotics · Computer vision · Bioinformatics · Cybersecurity    (curiosities, not specialisations)
 
 ---
 
