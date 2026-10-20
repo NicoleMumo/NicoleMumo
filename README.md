@@ -34,12 +34,10 @@ Security is part of all three: secure auth, input validation, least privilege, s
 | AI/ML | [**Sales Onboarding Guidance System**](https://github.com/NicoleMumo/SALES-ONBOARDING-GUIDANCE-SYSTEM-AI-) | AI assistant that guides sales agents through customer onboarding step by step | Python, Transformers |
 | Android | [**Farm Direct Mobile**](https://github.com/NicoleMumo/FARM-DIRECT-MOBILE-APP) | Marketplace connecting farmers directly with consumers | Kotlin, Jetpack Compose, Firebase |
 | IoT | [**Agriculture IoT**](https://github.com/NicoleMumo/AGRICULTURE-IOT-PROJECT) | Sensor-based smart farming with irrigation decision support | ESP32, MQTT, PHP, MySQL |
-| Web | [**Mini Cinema**](https://github.com/IS-PROJECT-2026/mini-cinema-169979) | Watch synchronised YouTube videos with friends ([Live demo](https://is-project-2026.github.io/mini-cinema-169979/)) | JavaScript, Firebase |
+| Web | [**Mini Cinema**](https://github.com/IS-PROJECT-2026/mini-cinema-169979) | Watch synchronised YouTube videos with friends ([Live demo](https://is-project-2026.github.io/mini-cinema-169979/))<br>Errors loading? Visit the [Troubleshooting](https://github.com/IS-PROJECT-2026/mini-cinema-169979#troubleshooting) section of the project README | JavaScript, Firebase |
 | Full-stack | [**Kazi Road Marketplace**](https://github.com/NicoleMumo/KAZI-ROAD-SERVICE-MARKETPLACE) | Prototype marketplace for local service providers | Next.js, TypeScript, Tailwind CSS |
 | Full-stack | [**Farm Direct Website**](https://github.com/NicoleMumo/FARM-DIRECT-ECOMMERCE-WEBSITE) | Online farm shop with payments | React, Node.js, PHP, MySQL |
 | Backend | [**Real Estate Management System**](https://github.com/NicoleMumo/Real-Estate-Management-System) | Property management platform with M-Pesa integration | PHP, MySQL |
-
-> **Mini Cinema live demo not loading?** If you hit errors, see the [Troubleshooting section](https://github.com/IS-PROJECT-2026/mini-cinema-169979#troubleshooting) of the project README.
 
 ---
 
