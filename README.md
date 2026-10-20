@@ -39,6 +39,8 @@ Security is part of all three: secure auth, input validation, least privilege, s
 | Full-stack | [**Farm Direct Website**](https://github.com/NicoleMumo/FARM-DIRECT-ECOMMERCE-WEBSITE) | Online farm shop with payments | React, Node.js, PHP, MySQL |
 | Backend | [**Real Estate Management System**](https://github.com/NicoleMumo/Real-Estate-Management-System) | Property management platform with M-Pesa integration | PHP, MySQL |
 
+> **Mini Cinema live demo not loading?** If you hit errors, see the [Troubleshooting section](https://github.com/IS-PROJECT-2026/mini-cinema-169979#troubleshooting) of the project README.
+
 ---
 
 ## Tech Stack
